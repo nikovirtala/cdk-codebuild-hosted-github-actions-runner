@@ -34,7 +34,7 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/node": "^22.13.17",
+    "@types/node": "^22.14.0",
     "@typescript-eslint/eslint-plugin": "^8",
     "@typescript-eslint/parser": "^8",
     "aws-cdk-lib": "2.146.0",
@@ -44,11 +44,11 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-import-resolver-typescript": "^3.10.0",
     "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-prettier": "^5.2.5",
+    "eslint-plugin-prettier": "^5.2.6",
     "jsii": "~5.5.0",
-    "jsii-diff": "^1.110.0",
+    "jsii-diff": "^1.111.0",
     "jsii-docgen": "^10.5.0",
-    "jsii-pacmak": "^1.110.0",
+    "jsii-pacmak": "^1.111.0",
     "jsii-rosetta": "~5.5.0",
     "prettier": "^3.5.3",
     "projen": "^0.91.18",
