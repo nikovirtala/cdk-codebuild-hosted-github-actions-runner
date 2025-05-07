@@ -378,10 +378,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.5.tgz#ec10755e871497bcd83efe927e43ec46e8c0747e"
   integrity sha512-hov8bUuiLiyFPGyFPE1lwWhmzYbirOXQNNo40+y3zow8aFVTeyn3VWL0VFFfdNddA8S4Vf0Tc062rzyNr7Paag==
 
-"@types/node@^22.15.9":
-  version "22.15.9"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.15.9.tgz#05a92409e7002356401df0b90267b296907937f7"
-  integrity sha512-l6QaCgJSJQ0HngL1TjvEY2DlefKggyGeXP1KYvYLBX41ZDPM1FsgDMAr5c+T673NMy7VCptMOzXOuJqf5uB0bA==
+"@types/node@^22.15.14":
+  version "22.15.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.15.14.tgz#889fd356a04d003a6d5650ccc003ef4d712430d7"
+  integrity sha512-BL1eyu/XWsFGTtDWOYULQEs4KR0qdtYfCxYAUYRoB7JP7h9ETYLgQTww6kH8Sj2C0pFGgrpM0XKv6/kbIzYJ1g==
   dependencies:
     undici-types "~6.21.0"
 
@@ -3463,10 +3463,10 @@ process-nextick-args@~2.0.0:
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
   integrity sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==
 
-projen@^0.91.29:
-  version "0.91.29"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.29.tgz#b20da5bcf547ced432d0d669fb6f8490fec6780d"
-  integrity sha512-5lPKIZukWWinwPQwnQClGf1wSC9T2f8XlZF1pE+rtx5HCbZ+hDX53pFo8l+79x9dgaRgJmEqhG/PjoOM8HrFRQ==
+projen@^0.91.30:
+  version "0.91.30"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.91.30.tgz#53376db87f9bd360b2f326d9b256794fa93678ee"
+  integrity sha512-MJJA5g70PdgCUgk5KTKZfQqKD155ugoTxQtK2sbpU3Kn1GtYqhEvZld7FRxZpYZ0FxugiMiysOhMS+hWkQOZgg==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
@@ -4365,9 +4365,9 @@ typescript@^5.8.3:
   integrity sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==
 
 typescript@next:
-  version "5.9.0-dev.20250505"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.0-dev.20250505.tgz#2e9de223e4af18a34af79ebd771fce4c0fe7811b"
-  integrity sha512-ywPLfyANyEX2J4k545xqwp2opBYw3n1HXTgaloRace5GPp3DFFYt71RG7K5ylusAcIb604MCwMPFw9vLfJQSwg==
+  version "5.9.0-dev.20250506"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.0-dev.20250506.tgz#9b468cb0ccdad575ebf2bb9b7c1afd8afb986a57"
+  integrity sha512-2wpjav7G3l6HcoMPoA7qI7pehXc0KURvGsvSzjjIuGaJZljFwX302AQbXNiXD360tlWJtjPb0/rBT8KZTUYcFg==
 
 typescript@~5.5:
   version "5.5.4"
