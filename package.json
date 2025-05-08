@@ -34,7 +34,7 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/node": "^22.15.14",
+    "@types/node": "^22.15.15",
     "@typescript-eslint/eslint-plugin": "^8",
     "@typescript-eslint/parser": "^8",
     "aws-cdk-lib": "2.146.0",
@@ -46,12 +46,12 @@
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-prettier": "^5.4.0",
     "jsii": "~5.5.0",
-    "jsii-diff": "^1.111.0",
+    "jsii-diff": "^1.112.0",
     "jsii-docgen": "^10.5.0",
-    "jsii-pacmak": "^1.111.0",
+    "jsii-pacmak": "^1.112.0",
     "jsii-rosetta": "~5.5.0",
     "prettier": "^3.5.3",
-    "projen": "^0.91.30",
+    "projen": "^0.92.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   },
