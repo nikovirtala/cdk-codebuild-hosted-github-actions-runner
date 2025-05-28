@@ -34,7 +34,7 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/node": "^22.15.21",
+    "@types/node": "^22.15.23",
     "@typescript-eslint/eslint-plugin": "^8",
     "@typescript-eslint/parser": "^8",
     "aws-cdk-lib": "2.146.0",
@@ -51,7 +51,7 @@
     "jsii-pacmak": "^1.112.0",
     "jsii-rosetta": "~5.5.0",
     "prettier": "^3.5.3",
-    "projen": "^0.92.7",
+    "projen": "^0.92.8",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   },
