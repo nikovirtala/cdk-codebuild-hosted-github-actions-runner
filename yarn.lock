@@ -1601,10 +1601,10 @@ eslint-plugin-import@^2.31.0:
     string.prototype.trimend "^1.0.8"
     tsconfig-paths "^3.15.0"
 
-eslint-plugin-prettier@^5.4.1:
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-5.4.1.tgz#99b55d7dd70047886b2222fdd853665f180b36af"
-  integrity sha512-9dF+KuU/Ilkq27A8idRP7N2DH8iUR6qXcjF3FR2wETY21PZdBrIjwCau8oboyGj9b7etWmTGEeM8e7oOed6ZWg==
+eslint-plugin-prettier@^5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-5.5.0.tgz#cf763962f90bad035db03ca008ffb0c9b359fb16"
+  integrity sha512-8qsOYwkkGrahrgoUv76NZi23koqXOGiiEzXMrT8Q7VcYaUISR+5MorIUxfWqYXN0fN/31WbSrxCxFkVQ43wwrA==
   dependencies:
     prettier-linter-helpers "^1.0.0"
     synckit "^0.11.7"
@@ -3264,10 +3264,10 @@ process-nextick-args@~2.0.0:
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
   integrity sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==
 
-projen@^0.92.11:
-  version "0.92.11"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.92.11.tgz#ff2e2eadae90eb9b6f3a79798c0570d8c72206e8"
-  integrity sha512-/dOAVN265luYqyJgTYyYUMsnoO+D0CxMqzTki5W7NoNlGaXz2fmKhUzzm5lijhSIBXUdOYP8OAqVU9vnNV3+rw==
+projen@^0.93.0:
+  version "0.93.0"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.93.0.tgz#fe8c407fba1200fb3ce7ca7f945383581cc0c404"
+  integrity sha512-aqV0e5cT/yS9aS+8Ia0TjaT+R4Eo0ZEoqKvmngLTF+iQJYAQULWuEuvmjvn3F+uhuIZ6v4PnFZpRsF5wJj1o4g==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
@@ -4081,9 +4081,9 @@ typescript@^5.8.3:
   integrity sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==
 
 typescript@next:
-  version "5.9.0-dev.20250616"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.0-dev.20250616.tgz#4be1cbebcb1489fee3d6228d6cd94803fb8bb1a7"
-  integrity sha512-TdYn1diKBbeAZIOI2A23QYCVrMdwj4AhDPE9kdenLxqVFVfFB+CADDXUi+4f91RQie1QEw6RcmmL32FXu7jE+Q==
+  version "5.9.0-dev.20250617"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.0-dev.20250617.tgz#06de02a40e6c93449b990b68979af5f3c2d8fbc6"
+  integrity sha512-qDyWesWm3gzLs7IxhSeoKvQqcMzCpsXbORlKPXOxaXFgWzAcVYDvf9mh6NRK3spOcedjnJaVinMZ/YbJoZ2duA==
 
 typescript@~5.5:
   version "5.5.4"
