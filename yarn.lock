@@ -369,10 +369,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.5.tgz#ec10755e871497bcd83efe927e43ec46e8c0747e"
   integrity sha512-hov8bUuiLiyFPGyFPE1lwWhmzYbirOXQNNo40+y3zow8aFVTeyn3VWL0VFFfdNddA8S4Vf0Tc062rzyNr7Paag==
 
-"@types/node@^22.16.0":
-  version "22.16.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.16.0.tgz#352bc4951fd089df32f2b6412a61d339b67ded8b"
-  integrity sha512-B2egV9wALML1JCpv3VQoQ+yesQKAmNMBIAY7OteVrikcOcAkWm+dGL6qpeCktPjAv6N1JLnhbNiqS35UpFyBsQ==
+"@types/node@^22.16.2":
+  version "22.16.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.16.2.tgz#0a7b5b852105fb3f5019134f87fa859d5abcab9b"
+  integrity sha512-Cdqa/eJTvt4fC4wmq1Mcc0CPUjp/Qy2FGqLza3z3pKymsI969TcZ54diNJv8UYUgeWxyb8FSbCkhdR6WqmUFhA==
   dependencies:
     undici-types "~6.21.0"
 
@@ -4081,9 +4081,9 @@ typescript@^5.8.3:
   integrity sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==
 
 typescript@next:
-  version "5.9.0-dev.20250707"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.0-dev.20250707.tgz#ad3d00a08b7b1cab50262801f2057315338aff0c"
-  integrity sha512-aLNq2y90Rk+gkNN2ptDQOoA4IeCnpEDoMMkz0o4jZcVC7fEeYAwgJ3Z+c2G9//TCukY8IvXGu0Jbfp2FtvdcFQ==
+  version "5.9.0-dev.20250708"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.0-dev.20250708.tgz#f426e8c49e18ae168ef113050c23cf05b60746d4"
+  integrity sha512-oty0f01wlyzxDAoziMwLVsNimzmHTC7j4RX6nZnX20xCHimdFnjMGdY8RuYqCe2XRU5ITe1wBGYamSeQgSPHbA==
 
 typescript@~5.5:
   version "5.5.4"
