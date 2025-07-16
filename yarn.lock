@@ -362,10 +362,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.5.tgz#ec10755e871497bcd83efe927e43ec46e8c0747e"
   integrity sha512-hov8bUuiLiyFPGyFPE1lwWhmzYbirOXQNNo40+y3zow8aFVTeyn3VWL0VFFfdNddA8S4Vf0Tc062rzyNr7Paag==
 
-"@types/node@^22.16.3":
-  version "22.16.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.16.3.tgz#006f83d80e6f05f65768acc77f4a57bfac1d545f"
-  integrity sha512-sr4Xz74KOUeYadexo1r8imhRtlVXcs+j3XK3TcoiYk7B1t3YRVJgtaD3cwX73NYb71pmVuMLNRhJ9XKdoDB74g==
+"@types/node@^22.16.4":
+  version "22.16.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.16.4.tgz#00c763ad4d4e45f62d5a270c040ae1a799c7e38a"
+  integrity sha512-PYRhNtZdm2wH/NT2k/oAJ6/f2VD2N2Dag0lGlx2vWgMSJXGNmlce5MiTQzoWAiIJtso30mjnfQCOKVH+kAQC/g==
   dependencies:
     undici-types "~6.21.0"
 
@@ -2544,9 +2544,9 @@ jsii-diff@^1.112.0:
     yargs "^16.2.0"
 
 jsii-docgen@^10.5.0:
-  version "10.7.5"
-  resolved "https://registry.yarnpkg.com/jsii-docgen/-/jsii-docgen-10.7.5.tgz#3a6d850d665866d51d1895e73a8ca3dc69e0ca8d"
-  integrity sha512-XCYz7grFe7VzcMMfg2cCv4W0AmsdQUoKapmVuanZ1oLWjQk0j/2FuCLlaGL9NszfeGsg8R5pzMM8QTDhQRGgAw==
+  version "10.7.6"
+  resolved "https://registry.yarnpkg.com/jsii-docgen/-/jsii-docgen-10.7.6.tgz#1e106d16e470a5b02cfee1fd66ad1685c640f09a"
+  integrity sha512-kRN5567oSx5nzrCycvwW7lKoqX0BcZz76quh99F2Fq6hrFfe5f0P9VyE/iWlOJEcJPbdsVvJN88YJwkFI8ki8Q==
   dependencies:
     "@jsii/spec" "^1.112.0"
     case "^1.6.3"
@@ -3217,9 +3217,9 @@ picomatch@^2.3.1:
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
 picomatch@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-4.0.2.tgz#77c742931e8f3b8820946c76cd0c1f13730d1dab"
-  integrity sha512-M7BAV6Rlcy5u+m6oPhAPFgJTzAioX/6B0DxyvDlo9l8+T3nLKbrczg2WLUyzd45L8RqfUMyGPzekbMvX2Ldkwg==
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-4.0.3.tgz#796c76136d1eead715db1e7bad785dedd695a042"
+  integrity sha512-5gTmgEY/sqK6gFXLIsQNH19lWb4ebPDLA4SdLP7dsWkIXHWlG66oPuVvXSGFPppYZz8ZDZq0dYYrbHfBCVUb1Q==
 
 pify@^2.3.0:
   version "2.3.0"
@@ -4075,9 +4075,9 @@ typescript@^5.8.3:
   integrity sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==
 
 typescript@next:
-  version "5.9.0-dev.20250714"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.0-dev.20250714.tgz#1e4a7ecaca884a8b80c7f94e5c4c0bc162fc9fff"
-  integrity sha512-bwPEUBqpLyZu/skdNU1zkNggyohtulwmjMzkJKLRZLbMrmgPQuwDeSi4W2qADOI4TA3NMxyYF9gg3HdNTWD8/g==
+  version "5.9.0-dev.20250715"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.0-dev.20250715.tgz#66b8bc700813684de61e59df2ab511131b90cef8"
+  integrity sha512-/u7uTrwwct3cXY7lf/nGBFEMcp1ljUVt9PLDrFsuAgdkonzwYf++jthzXTilVOmcai1SIZ90SxqGWB1Feea9vQ==
 
 typescript@~5.5:
   version "5.5.4"
