@@ -1,43 +1,18 @@
 {
   "dependencies": [
     {
+      "name": "@biomejs/biome",
+      "version": "^2",
+      "type": "build"
+    },
+    {
       "name": "@types/node",
-      "type": "build"
-    },
-    {
-      "name": "@typescript-eslint/eslint-plugin",
-      "version": "^8",
-      "type": "build"
-    },
-    {
-      "name": "@typescript-eslint/parser",
-      "version": "^8",
+      "version": "ts5.9",
       "type": "build"
     },
     {
       "name": "commit-and-tag-version",
       "version": "^12",
-      "type": "build"
-    },
-    {
-      "name": "eslint-config-prettier",
-      "type": "build"
-    },
-    {
-      "name": "eslint-import-resolver-typescript",
-      "type": "build"
-    },
-    {
-      "name": "eslint-plugin-import",
-      "type": "build"
-    },
-    {
-      "name": "eslint-plugin-prettier",
-      "type": "build"
-    },
-    {
-      "name": "eslint",
-      "version": "^9",
       "type": "build"
     },
     {
@@ -55,16 +30,12 @@
     },
     {
       "name": "jsii-rosetta",
-      "version": "~5.5.0",
+      "version": "~5.9.3",
       "type": "build"
     },
     {
       "name": "jsii",
-      "version": "~5.5.0",
-      "type": "build"
-    },
-    {
-      "name": "prettier",
+      "version": "~5.9.3",
       "type": "build"
     },
     {
@@ -77,11 +48,12 @@
     },
     {
       "name": "typescript",
+      "version": "5.9.3",
       "type": "build"
     },
     {
       "name": "aws-cdk-lib",
-      "version": "^2.146.0",
+      "version": "^2.221.1",
       "type": "peer"
     },
     {

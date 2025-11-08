@@ -6,6 +6,7 @@
     "url": "https://github.com/nikovirtala/cdk-codebuild-hosted-github-actions-runner.git"
   },
   "scripts": {
+    "biome": "npx projen biome",
     "build": "npx projen build",
     "bump": "npx projen bump",
     "clobber": "npx projen clobber",
@@ -14,7 +15,6 @@
     "default": "npx projen default",
     "docgen": "npx projen docgen",
     "eject": "npx projen eject",
-    "eslint": "npx projen eslint",
     "package": "npx projen package",
     "package-all": "npx projen package-all",
     "package:js": "npx projen package:js",
@@ -34,31 +34,25 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/node": "^22.19.0",
-    "@typescript-eslint/eslint-plugin": "^8",
-    "@typescript-eslint/parser": "^8",
-    "aws-cdk-lib": "2.146.0",
+    "@biomejs/biome": "^2",
+    "@types/node": "ts5.9",
+    "aws-cdk-lib": "2.221.1",
     "commit-and-tag-version": "^12",
     "constructs": "10.0.5",
-    "eslint": "^9",
-    "eslint-config-prettier": "^9.1.2",
-    "eslint-import-resolver-typescript": "^3.10.1",
-    "eslint-plugin-import": "^2.32.0",
-    "eslint-plugin-prettier": "^5.5.4",
-    "jsii": "~5.5.0",
+    "jsii": "~5.9.3",
     "jsii-diff": "^1.118.0",
     "jsii-docgen": "^10.5.0",
     "jsii-pacmak": "^1.118.0",
-    "jsii-rosetta": "~5.5.0",
-    "prettier": "^3.6.2",
+    "jsii-rosetta": "~5.9.3",
     "projen": "^0.98.10",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "typescript": "5.9.3"
   },
   "peerDependencies": {
-    "aws-cdk-lib": "^2.146.0",
+    "aws-cdk-lib": "^2.221.1",
     "constructs": "^10.0.5"
   },
+  "pnpm": {},
   "keywords": [
     "aws",
     "aws-cdk",
