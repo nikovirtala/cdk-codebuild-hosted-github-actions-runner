@@ -31,7 +31,7 @@ importers:
         version: 1.121.0
       jsii-docgen:
         specifier: ^10.5.0
-        version: 10.11.4(jsii-rosetta@5.9.15)
+        version: 10.11.5(jsii-rosetta@5.9.15)
       jsii-pacmak:
         specifier: ^1.121.0
         version: 1.121.0(jsii-rosetta@5.9.15)
@@ -673,8 +673,8 @@ packages:
     engines: {node: '>= 14.17.0'}
     hasBin: true
 
-  jsii-docgen@10.11.4:
-    resolution: {integrity: sha512-9i3faISy03yYLiLpqThI6OSQirFtaRUylELbMWCEAzjHA2G7IshqLsYPvgtvw6+prfXMTGw7qPRMKrSx2OUH5g==}
+  jsii-docgen@10.11.5:
+    resolution: {integrity: sha512-o1JXhapFjNgjURhCRIw8AEVBOJ/cCzpT+RgEjSPKwJrpfkoOnqDSoLcG3wNiY0JumtzGgoZfOld38yO6vQQq4w==}
     hasBin: true
     peerDependencies:
       jsii-rosetta: ^1.85.0 || ~5.0.14 || ~5.1.2 || ~5.2.0 || ~5.3.0 || ~5.4.0 || ~5.5.0 || ~5.6.0 || ~5.7.0 || ~5.8.0 || ~5.9.1
@@ -1788,7 +1788,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  jsii-docgen@10.11.4(jsii-rosetta@5.9.15):
+  jsii-docgen@10.11.5(jsii-rosetta@5.9.15):
     dependencies:
       '@jsii/spec': 1.121.0
       case: 1.6.3
