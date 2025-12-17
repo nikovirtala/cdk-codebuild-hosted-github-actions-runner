@@ -13,7 +13,7 @@ importers:
         version: 2.3.9
       '@types/node':
         specifier: ts5.9
-        version: 25.0.2
+        version: 25.0.3
       aws-cdk-lib:
         specifier: 2.221.1
         version: 2.221.1(constructs@10.0.5)
@@ -39,11 +39,11 @@ importers:
         specifier: ~5.9.3
         version: 5.9.20
       projen:
-        specifier: ^0.98.29
-        version: 0.98.29(constructs@10.0.5)
+        specifier: ^0.98.30
+        version: 0.98.30(constructs@10.0.5)
       ts-node:
         specifier: ^10.9.2
-        version: 10.9.2(@types/node@25.0.2)(typescript@5.9.3)
+        version: 10.9.2(@types/node@25.0.3)(typescript@5.9.3)
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -177,8 +177,8 @@ packages:
   '@types/minimist@1.2.5':
     resolution: {integrity: sha512-hov8bUuiLiyFPGyFPE1lwWhmzYbirOXQNNo40+y3zow8aFVTeyn3VWL0VFFfdNddA8S4Vf0Tc062rzyNr7Paag==}
 
-  '@types/node@25.0.2':
-    resolution: {integrity: sha512-gWEkeiyYE4vqjON/+Obqcoeffmk0NF15WSBwSs7zwVA2bAbTaE0SJ7P0WNGoJn8uE7fiaV5a7dKYIJriEqOrmA==}
+  '@types/node@25.0.3':
+    resolution: {integrity: sha512-W609buLVRVmeW693xKfzHeIV6nJGGz98uCPfeXI1ELMLXVeKYZ9m15fAMSaUPBHYLGFsVRcMmSCksQOrZV9BYA==}
 
   '@types/normalize-package-data@2.4.4':
     resolution: {integrity: sha512-37i+OaWTh9qeK4LSHPsyRC7NahnGotNuZvjLSgcPzblpHB3rrCJxAOgI5gCdKm7coonsaX1Of0ILiTcnZjbfxA==}
@@ -895,8 +895,8 @@ packages:
   process-nextick-args@2.0.1:
     resolution: {integrity: sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==}
 
-  projen@0.98.29:
-    resolution: {integrity: sha512-h5rbJZLINw63JcVOvgFJqXr++PJ3sCsYGgLOT4ZqboIOiiPOp7j6JaTrfNscFDOKhLX81lsOWmqOAb7VYIxZyQ==}
+  projen@0.98.30:
+    resolution: {integrity: sha512-V5XtN30jLClmHWyzkruk1Uo3TjJBtm0/WAHzR9GGSG2PrjOrnj9qF7at7li/Bf/OODO/kyalRWK7SLGpyjSU8w==}
     engines: {node: '>= 16.0.0'}
     hasBin: true
     peerDependencies:
@@ -1301,7 +1301,7 @@ snapshots:
 
   '@types/minimist@1.2.5': {}
 
-  '@types/node@25.0.2':
+  '@types/node@25.0.3':
     dependencies:
       undici-types: 7.16.0
 
@@ -2039,7 +2039,7 @@ snapshots:
 
   process-nextick-args@2.0.1: {}
 
-  projen@0.98.29(constructs@10.0.5):
+  projen@0.98.30(constructs@10.0.5):
     dependencies:
       constructs: 10.0.5
 
@@ -2221,14 +2221,14 @@ snapshots:
 
   trim-newlines@3.0.1: {}
 
-  ts-node@10.9.2(@types/node@25.0.2)(typescript@5.9.3):
+  ts-node@10.9.2(@types/node@25.0.3)(typescript@5.9.3):
     dependencies:
       '@cspotcode/source-map-support': 0.8.1
       '@tsconfig/node10': 1.0.11
       '@tsconfig/node12': 1.0.11
       '@tsconfig/node14': 1.0.3
       '@tsconfig/node16': 1.0.4
-      '@types/node': 25.0.2
+      '@types/node': 25.0.3
       acorn: 8.15.0
       acorn-walk: 8.3.4
       arg: 4.1.3
