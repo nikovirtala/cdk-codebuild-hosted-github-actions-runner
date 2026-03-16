@@ -31,16 +31,16 @@ importers:
         version: 1.127.0
       jsii-docgen:
         specifier: ^10.5.0
-        version: 10.11.14(jsii-rosetta@5.9.35)
+        version: 10.11.14(jsii-rosetta@5.9.36)
       jsii-pacmak:
         specifier: ^1.127.0
-        version: 1.127.0(jsii-rosetta@5.9.35)
+        version: 1.127.0(jsii-rosetta@5.9.36)
       jsii-rosetta:
         specifier: ~5.9.3
-        version: 5.9.35
+        version: 5.9.36
       projen:
-        specifier: ^0.99.19
-        version: 0.99.19(constructs@10.5.1)
+        specifier: ^0.99.20
+        version: 0.99.20(constructs@10.5.1)
       ts-node:
         specifier: ^10.9.2
         version: 10.9.2(@types/node@25.5.0)(typescript@5.9.3)
@@ -681,8 +681,8 @@ packages:
     engines: {node: '>= 14.17.0'}
     hasBin: true
 
-  jsii-rosetta@5.9.35:
-    resolution: {integrity: sha512-70VITVYYMBTqjKdi/W/pJsZPxYpR5AdCyeWCFK3VYYUmUinMLmOkD+8jgHdj7NaLolVxAyrCXvGiHmvXVHlkYw==}
+  jsii-rosetta@5.9.36:
+    resolution: {integrity: sha512-jcLFv5ojbbsichqPEM3bT63I9ZYwMhRmG7K/c1aqeR1wMK26ykxI/DqWmpjUfpc1LON0G1981jM5xxJExfvrDQ==}
     engines: {node: '>= 20.16.0'}
     hasBin: true
 
@@ -890,8 +890,8 @@ packages:
   process-nextick-args@2.0.1:
     resolution: {integrity: sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==}
 
-  projen@0.99.19:
-    resolution: {integrity: sha512-svJ6f3SV3ZMUy77CXmLbjhBFnHnqSg9XXByzF8MYdrLeCED/or9v26//HurYQQm/awtR1SN5Kwn9DYP5aXzXhg==}
+  projen@0.99.20:
+    resolution: {integrity: sha512-mK3s7G3JgeUdy2+7d3p3h/05AigbgKXvFpz8ud7Fj4XpZ2UTiKJQ+fDl29nAxIW0AnVQUQN6UfvqZGibWxni/g==}
     engines: {node: '>= 16.0.0'}
     hasBin: true
     peerDependencies:
@@ -1751,19 +1751,19 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  jsii-docgen@10.11.14(jsii-rosetta@5.9.35):
+  jsii-docgen@10.11.14(jsii-rosetta@5.9.36):
     dependencies:
       '@jsii/spec': 1.127.0
       case: 1.6.3
       fast-glob: 3.3.3
       fs-extra: 10.1.0
       jsii-reflect: 1.127.0
-      jsii-rosetta: 5.9.35
+      jsii-rosetta: 5.9.36
       json-stream-stringify: 3.1.6
       semver: 7.7.4
       yargs: 16.2.0
 
-  jsii-pacmak@1.127.0(jsii-rosetta@5.9.35):
+  jsii-pacmak@1.127.0(jsii-rosetta@5.9.36):
     dependencies:
       '@jsii/check-node': 1.127.0
       '@jsii/spec': 1.127.0
@@ -1773,7 +1773,7 @@ snapshots:
       escape-string-regexp: 4.0.0
       fs-extra: 10.1.0
       jsii-reflect: 1.127.0
-      jsii-rosetta: 5.9.35
+      jsii-rosetta: 5.9.36
       semver: 7.7.4
       spdx-license-list: 6.11.0
       xmlbuilder: 15.1.1
@@ -1788,7 +1788,7 @@ snapshots:
       oo-ascii-tree: 1.127.0
       yargs: 17.7.2
 
-  jsii-rosetta@5.9.35:
+  jsii-rosetta@5.9.36:
     dependencies:
       '@jsii/check-node': 1.127.0
       '@jsii/spec': 1.127.0
@@ -2017,7 +2017,7 @@ snapshots:
 
   process-nextick-args@2.0.1: {}
 
-  projen@0.99.19(constructs@10.5.1):
+  projen@0.99.20(constructs@10.5.1):
     dependencies:
       constructs: 10.5.1
 
