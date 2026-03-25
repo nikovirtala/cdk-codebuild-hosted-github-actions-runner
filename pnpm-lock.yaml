@@ -39,8 +39,8 @@ importers:
         specifier: ~5.9.3
         version: 5.9.37
       projen:
-        specifier: ^0.99.22
-        version: 0.99.22(constructs@10.5.1)
+        specifier: ^0.99.23
+        version: 0.99.23(constructs@10.5.1)
       ts-node:
         specifier: ^10.9.2
         version: 10.9.2(@types/node@25.5.0)(typescript@5.9.3)
@@ -897,8 +897,8 @@ packages:
   process-nextick-args@2.0.1:
     resolution: {integrity: sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==}
 
-  projen@0.99.22:
-    resolution: {integrity: sha512-ew2sWBxFAqewBPW1UkjeP52jp2c67ItR3UXg5+vYqhSxfZKvGxBQipOydayB77E3Kc3M56mwBiO0ptJ+teWBIg==}
+  projen@0.99.23:
+    resolution: {integrity: sha512-r85PF6FsTe/40gHhOQFymgFs69CWVzidPr/krpiNbE5TZr9t1jEb75025yAwYFhcx+SD3XhaEpiabHWKqEeozA==}
     engines: {node: '>= 16.0.0'}
     hasBin: true
     peerDependencies:
@@ -2032,7 +2032,7 @@ snapshots:
 
   process-nextick-args@2.0.1: {}
 
-  projen@0.99.22(constructs@10.5.1):
+  projen@0.99.23(constructs@10.5.1):
     dependencies:
       constructs: 10.5.1
 
